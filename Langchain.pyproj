@@ -21,6 +21,7 @@
   <ItemGroup>
     <Compile Include="audio.py" />
     <Compile Include="main.py" />
+    <Compile Include="mcp_client.py" />
   </ItemGroup>
   <ItemGroup>
     <Content Include=".env" />
